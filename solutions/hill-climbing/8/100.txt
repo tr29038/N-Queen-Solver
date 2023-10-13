@@ -1,0 +1,21 @@
+Start:
+     Q Q
+ Q      
+        
+   Q    
+Q       
+        
+      Q 
+  Q Q   
+
+Final:
+     Q  
+       Q
+ Q      
+   Q    
+Q       
+      Q 
+    Q   
+  Q     
+
+Success.

@@ -1,0 +1,19 @@
+Start:
+                
+          Q     
+                
+ Q            Q 
+Q           Q   
+    Q          Q
+      QQQ       
+           Q    
+                
+                
+  Q             
+                
+   Q            
+         Q   Q  
+                
+     Q          
+
+Fail.
